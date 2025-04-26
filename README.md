@@ -1,3 +1,3 @@
 # Java-DSA
 <br>
-Author - Atharv Lokhande
+The Solving DSA questions
